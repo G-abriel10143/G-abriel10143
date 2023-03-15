@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Gabriel Alves 🖐️
 
-![Gabriel GitHub stats]<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=G-abriel10143&theme=react&line_height=40&hide=css"/> </a>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
