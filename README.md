@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Gabriel Alves 🖐️
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=G-abriel10143&show_icons=true&theme=dracula&count_private=true)
-
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=G-abriel10143&theme=transparent &show_icons=true)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
