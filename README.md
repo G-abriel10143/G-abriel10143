@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Gabriel Alves 🖐️
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=G-abriel10143&show_icons=true&theme=dracula&count_private=true)
+![pinkumohikan's github stats](https://github-readme-stats.vercel.app/api?username=pinkumohikan&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkumohikan&theme=radical)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
