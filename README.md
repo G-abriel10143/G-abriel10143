@@ -10,5 +10,5 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="php" src="https://img.shields.io/badge/Php-007ACC?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="cakephp" src="https://img.shields.io/badge/Cake-php-20232A?style=for-the-badge&logo=cakephp&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="composer" src="https://img.shields.io/badge/Composer-20232A?style=for-the-badge&logo=composer&logoColor=61DAFB" />
 </div><br/>
