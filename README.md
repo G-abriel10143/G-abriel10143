@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Alves 🖐️
 
-![pinkumohikan's github stats](https://github-readme-stats.vercel.app/api?username=pinkumohikan&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkumohikan&theme=radical)
+![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=G-abriel10143&count_private=true&show_icons=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=G-abriel10143&theme=radical)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
