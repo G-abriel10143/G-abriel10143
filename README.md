@@ -13,5 +13,6 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB" />
   <img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jQuery&logoColor=61DAFB" />
   <img align="center" alt="umbraco" src="https://img.shields.io/badge/Umbraco-20232A?style=for-the-badge&logo=umbraco&logoColor=61DAFB" />
-  
+  <img align="center" alt="composer" src="https://img.shields.io/badge/Composer-20232A?style=for-the-badge&logo=composer&logoColor=61DAFB" />
+  <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-20232A?style=for-the-badge&logo=wordpress&logoColor=61DAFB" />
 </div><br/>
